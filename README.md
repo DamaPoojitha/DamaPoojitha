@@ -1,4 +1,4 @@
-## Hi there 👋
+t## Hi there 👋
 
 ## 👨‍💻 Who Am I?
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
@@ -76,5 +76,5 @@ I am **Dama Poojitha**[cite: 1]
 
 * 📧 Email: dpoojitha6264@gmail.com
 * 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com) *(www.linkedin.com/in/dama-poojitha-62477540b)*
-* 🐙 GitHub: [GitHub Profile](https://github.com) *()*
+* 🐙 CodeChef: [CodeChef Profile](www.codechef.com/) *(DamaPoojitha)*
 * 💬 Feel free to connect for collaborations, project discussions, or tech chats!
