@@ -1,7 +1,7 @@
 Hi there 👋
 
 ## 👨‍💻 Who Am I?
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" min-width="300px" max-width="200px" width="250px" align="right">
 
 I am **Dama Poojitha**
 * 🎓 3rd Year Computer Science Engineering Student at Koneru Lakshmaiah University (CGPA: 8.88)
