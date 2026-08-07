@@ -1,9 +1,9 @@
-t## Hi there 👋
+Hi there 👋
 
 ## 👨‍💻 Who Am I?
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
 
-I am **Dama Poojitha**[cite: 1]
+I am **Dama Poojitha**
 * 🎓 3rd Year Computer Science Engineering Student at Koneru Lakshmaiah University (CGPA: 8.88)
 * 💡 Passionate about Software Development, Full-Stack Web Dev, Mobile App Creation, and AI Technologies
 * 🚀 Love building practical projects that solve real-world problems—from disaster response apps to computer vision tools
