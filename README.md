@@ -53,7 +53,7 @@ I am **Dama Poojitha**
 
 * 🔍 **College Lost and Found Portal** 
   * Designed and deployed a responsive web interface using **React, HTML, and CSS** for campus use
-    In-Progress - additionally adding micro services and backend fully functional
+  * In-Progress - additionally adding micro services and fully integrated backend
 
 ---
 
