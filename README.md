@@ -53,6 +53,7 @@ I am **Dama Poojitha**
 
 * 🔍 **College Lost and Found Portal** 
   * Designed and deployed a responsive web interface using **React, HTML, and CSS** for campus use
+    In-Progress - additionally adding micro services and backend fully functional
 
 ---
 
@@ -60,6 +61,7 @@ I am **Dama Poojitha**
 
 * ☁️ **AWS Certified Cloud Practitioner** – Amazon Web Services
 * 🤖 **Microsoft Certified: Azure AI Fundamentals** – Microsoft
+* 📊 **Coursera Certifications**
 * 🗣️ **Linguaskill Certificate (B2)** – Upper-Intermediate English Proficiency, Cambridge
 * 🏆 **Hackathon Participant:** Engaged in competitive, fast-paced on-campus hackathons to build prototypes under tight deadlines
 
